@@ -42,6 +42,7 @@ The IPL isn't just a tournament; it's a global phenomenon that sparks passion an
 5️⃣ **Track the Evolution of Stars:** Player Distribution Analysis Across IPL Seasons
 
 6️⃣ **Experience International Intrigue:** Tracking Participation Trends of Players from Specific Countries
+
 7️⃣ **Elite Insights Await:** Top 20 Countries & Top 10 Teams Revelations
 
 ## Unlock Score Predictions:
