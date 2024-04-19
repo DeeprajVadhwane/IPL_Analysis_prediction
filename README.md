@@ -47,11 +47,11 @@ The IPL isn't just a tournament; it's a global phenomenon that sparks passion an
 
 Leverage the power of machine learning algorithms to predict scores with unprecedented precision! 📈
 
-1️⃣ **Anticipate First Inning Scores**
+1️⃣ **Predict First Inning Scores**
 
 2️⃣ **Predict Second Inning Scores**
 
-3️⃣ **Nail IPL Score Predictions**
+3️⃣ **IPL Score Predictions**
 
 Explore the code on [GitHub](https://github.com/DeeprajVadhwane/Data-Analysis-projects/new/main/IPL_Analysis_and_Prediction) and embark on a journey of strategic mastery!
 
