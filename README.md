@@ -5,7 +5,8 @@
 </p>
 Ready to take your IPL experience to the next level? Let's dive into the heart of cricket with our groundbreaking data insights! 📊
 
-The IPL isn't just a tournament; it's a global phenomenon that sparks passion and excitement like no other. 🌍 But why settle for mere thrills when you can uncover the captivating narratives hidden within the numbers? 
+The IPL isn't just a tournament; it's a global phenomenon that sparks passion and excitement like no other. 
+🌍 But why settle for mere thrills when you can uncover the captivating narratives hidden within the numbers? 
 
 ## Uncover Actionable Insights:
  1️⃣ **Explore the Titans of the Bat:** Total Runs Scored by Batsmen Across Seasons
