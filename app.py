@@ -15,7 +15,7 @@ import IPL_Auction_Insights_Hub
 import inning_prediction
 
 # Define navigation options
-nav_options = ["Home", "About",'IPL Cricket Insights Dashboard','IPL Auction Insights Hub','Inning Prediction']
+nav_options = ["Home", "About",'IPL Cricket Insights Dashboard','IPL Auction Insights Hub']
 
 # Sidebar navigation
 nav_selection = st.sidebar.radio("Navigation", nav_options)
@@ -29,5 +29,5 @@ elif nav_selection == 'IPL Cricket Insights Dashboard':
     IPL_Cricket_Insights_Dashboard.main()
 elif nav_selection == 'IPL Auction Insights Hub':
     IPL_Auction_Insights_Hub.main()
-elif nav_selection == 'Inning Prediction':
-    inning_prediction.inning_prediction()
+# elif nav_selection == 'Inning Prediction':
+#     inning_prediction.inning_prediction()
